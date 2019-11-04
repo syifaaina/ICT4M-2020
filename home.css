@@ -1,5 +1,5 @@
 *{
-  font-family: lato;
+  font-family: 'lato';
 }
 Body{
     background-image: url(Images/background.jpeg);
@@ -31,6 +31,22 @@ Body{
     background-size: cover;
     background-image: url(Images/header.jpg);
     background-repeat: no-repeat;
+}
+.top-banner h1{
+  text-align: center;
+  font-family: 'Corbel', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: #ffffb3;
+  margin-top: auto;
+}
+.top-banner p{
+  text-align: center;
+  font-family: 'Corbel', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: #ffffb3;
+  margin-top: auto;
 }
 .search-box input[type=text]{
   width: 130px;
