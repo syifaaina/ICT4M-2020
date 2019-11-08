@@ -36,17 +36,17 @@ Body{
   text-align: center;
   font-family: 'Corbel', sans-serif;
   font-weight: bold;
-  font-size: 60px;
-  color: #ffffb3;
+  font-size: 4vw;
+  color: #F1F8E0;
   margin-top: auto;
 }
 .top-banner p{
   text-align: center;
   font-family: 'Corbel', sans-serif;
   font-weight: bold;
-  font-size: 30px;
-  color: #ffffb3;
-  margin-top: auto;
+  font-size: 2vw;
+  color: #F1F8E0;
+  margin-bottom: 15px;
 }
 .search-box input[type=text]{
   width: 130px;
